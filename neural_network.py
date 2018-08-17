@@ -1,3 +1,7 @@
+"""
+A feed forward neural network with one layer.
+"""
+
 # numpy imports 
 from numpy import dot, exp, array, random
 
