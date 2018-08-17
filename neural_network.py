@@ -1,5 +1,5 @@
 """
-A feed forward neural network with one layer.
+A feed forward neural network with one layer
 """
 
 # numpy imports 
